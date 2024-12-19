@@ -1,41 +1,28 @@
 # Hi, I'm Elijah! 👋
 
-I'm a **System Administrator**, **DevOps Engineer**, and **AWS Solutions Architect** with a passion for **Linux** 🐧, **cloud solutions**, **automation**, and **infrastructure management**. When I'm not optimizing systems, I'm diving into **manhwa** and **anime** 🎬📚.
+I'm a **SysAdmin**, **DevOps Engineer**, and **AWS Solutions Architect** passionate about **Linux** 🐧, **cloud** 🌥️, and **automation**. When not coding, I’m into **anime** and **manhwa** 🎬📚.
 
-## 🚀 My Tech Stack
+## 🚀 Tech Stack
 
-- **Languages**: Bash, Python, YAML, JSON
-- **DevOps**: Docker, Kubernetes, Jenkins, Terraform, Ansible, CI/CD
+- **Languages**: Bash, Python, YAML
+- **Tools**: Docker, Kubernetes, Jenkins, Terraform, Ansible
 - **Cloud**: AWS, Azure, Google Cloud
-- **OS**: Linux (Ubuntu, CentOS, Arch), Windows
-- **Monitoring**: Prometheus, Grafana, Nagios
-- **Virtualization**: VMware, KVM, VirtualBox
+- **OS**: Linux, Windows
 
 ## 🌱 Currently Working On
 
-- Automating cloud infrastructures with **AWS** and **Terraform**
-- Managing **Kubernetes** clusters and improving **CI/CD** pipelines
-- Learning about **cloud-native apps** and **containerization**
+- Automating **AWS** infrastructure
+- Managing **Kubernetes** clusters
+- Exploring **cloud-native** and **serverless** solutions
 
 ## 🎮 Anime & Manhwa
 
-When I'm not coding, you’ll find me watching anime or reading manhwa. Currently into:
+- **Anime**: Attack on Titan, One Piece
+- **Manhwa**: Solo Leveling, The Beginning After the End
 
-- **Anime**: Attack on Titan, One Piece, Demon Slayer
-- **Manhwa**: Solo Leveling, The Beginning After the End, Lookism
+## 🔧 Learning
 
-## 🔧 Currently Learning
+- Advanced **AWS** and **Serverless** architectures
+- **Linux internals** and **AI/ML** 🤖
 
-- Advanced **AWS Solutions Architecture**
-- **Serverless** and **Lambda** functions
-- Deep dive into **Linux internals** and **AI/ML** 🤖
-
-## 🌍 Connect with Me
-
-- [GitHub](https://github.com/elijahu1)
-- [LinkedIn](https://linkedin.com/in/elijahu)
-- [Twitter](https://twitter.com/elijahu_)
-
-Thanks for stopping by! 😊🚀
-
-_"Stop talking, start doing."_
+Thanks for visiting! 🚀
