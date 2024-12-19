@@ -1,6 +1,6 @@
 # Hi, I'm Elijah! 👋
 
-I'm a **SysAdmin**, **DevOps Engineer**, and **AWS Solutions Architect** passionate about **Linux** 🐧, **cloud** 🌥️, and **automation**. When not coding, I’m into **anime** and **manhwa** 🎬📚.
+I'm a **System Administrator**, **DevOps Engineer**, and **AWS Solutions Architect** with a passion for **Linux** 🐧, **cloud solutions**, **automation**, and **infrastructure management**. When I'm not optimizing systems, I'm diving into **manhwa** and **anime** 🎬📚.
 
 ## 🚀 Tech Stack
 
