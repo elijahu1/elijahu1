@@ -1,28 +1,30 @@
 # Hi, I'm Elijah! 👋
 
-I'm a **System Administrator**, **DevOps Engineer**, and **AWS Solutions Architect** with a passion for **Linux** 🐧, **cloud solutions**, **automation**, and **infrastructure management**. When I'm not optimizing systems, I'm diving into **manhwa** and **anime** 🎬📚.
+**SysAdmin** | **DevOps Engineer** | **AWS Architect**  
+Passionate about **Linux** 🐧, **cloud automation**, and **infrastructure**.  
+Anime & manhwa enthusiast 🎬📚
 
 ## 🚀 Tech Stack
 
 - **Languages**: Bash, Python, YAML
-- **Tools**: Docker, Kubernetes, Jenkins, Terraform, Ansible
-- **Cloud**: AWS, Azure, Google Cloud
+- **Tools**: Docker, K8s, Jenkins, Terraform, Ansible
+- **Cloud**: AWS, Azure, GCP
 - **OS**: Linux, Windows
 
-## 🌱 Currently Working On
+## 🌱 Current Focus
 
-- Automating **AWS** infrastructure
+- Automating **AWS** infra
 - Managing **Kubernetes** clusters
-- Exploring **cloud-native** and **serverless** solutions
+- Exploring **cloud-native/serverless**
 
-## 🎮 Anime & Manhwa
+## 📚 Favorites
 
-- **Anime**: Attack on Titan, One Piece
-- **Manhwa**: Solo Leveling, The Beginning After the End
+**Anime**: Attack on Titan, One Piece  
+**Manhwa**: Solo Leveling, The Beginning After the End
 
-## 🔧 Learning
+## 🔧 Learning Now
 
-- Advanced **AWS** and **Serverless** architectures
-- **Linux internals** and **AI/ML** 🤖
+- **AWS/Serverless** architectures
+- **Linux internals** & **AI/ML** 🤖
 
-Thanks for visiting! 🚀
+Thanks for visiting! 👋
