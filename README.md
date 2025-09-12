@@ -1,7 +1,7 @@
 # Hi there, I'm Elijah! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <img src="https://assets.elijahu.me/elijahu-cover-photo.png" alt="Elijah's Cover" width="500" />
+    <img src="https://assets.elijahu.me/elijahu-cover-photo.png" alt="Elijah's Cover" width="800" height="200" />
 </div>
 
 <div align="center">
