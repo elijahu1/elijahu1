@@ -1,11 +1,7 @@
 # Hi there, I'm Elijah! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=300&section=header&text=Elijah%20Udom&fontSize=90&fontAlignY=38&desc=SysAdmin%20|%20DevOps%20Engineer%20|%20AWS%20Architect&descAlignY=51&descAlign=50&fontColor=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://assets.elijahu.me/elijahu-cover-photo.png" alt="Elijah's Cover" width="100%" />
+  <img src="https://assets.elijahu.me/elijahu-cover-photo.png" alt="Elijah's Cover" width="800" />
 </div>
 
 <div align="center">
@@ -119,6 +115,15 @@ me.say_hi()
 </div>
 
 ---
+
+<div align="right">
+エ<br>
+ラ<br>
+イ<br>
+ジ<br>
+ャ
+</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=100&section=footer"/>
