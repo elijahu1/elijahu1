@@ -4,33 +4,19 @@
     <img src="https://assets.elijahu.me/elijahu-cover-photo.png" alt="Elijah's Cover" width="800" height="200" />
 </div>
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Linux+%F0%9F%90%A7+Cloud+Automation+Enthusiast;AWS+Solutions+Architect;DevOps+%26+Infrastructure+Engineer;Anime+%26+Manhwa+Fan+%F0%9F%8E%AC%F0%9F%93%9A)](https://git.io/typing-svg)
-  
-</div>
-
 ---
 
 ## 🚀 About Me
 
-```python
-class Elijah:
-    def __init__(self):
-        self.role = "AWS Solutions Architect & DevOps Engineer"
-        self.code = ["Python", "Bash", "YAML", "Go"]
-        self.tools = ["Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins"]
-        self.cloud = ["AWS", "Azure", "GCP"]
-        self.os = ["Linux", "Windows"]
-        self.interests = ["Anime", "Manhwa", "Cloud Architecture", "AI/ML"]
-        self.currently_learning = ["AWS Serverless", "Linux Internals", "AI/ML"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome together! 🚀")
 
-me = Elijah()
-me.say_hi()
-```
+🚀 **AWS Solutions Architect & DevOps Engineer**  
+💻 **Languages:** Python, Bash, YAML, Go  
+🛠️ **Tools & Tech:** Docker, Kubernetes, Terraform, Ansible, Jenkins  
+☁️ **Cloud:** AWS, Azure, GCP  
+🖥️ **OS:** Linux, Windows  
+🎯 **Interests:** Anime, Manhwa, Cloud Architecture, AI/ML  
+📚 **Currently Learning:** AWS Serverless, Linux Internals, AI/ML  
+
 
 ## 🛠️ Tech Stack
 
