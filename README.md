@@ -129,11 +129,6 @@ me.say_hi()
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=100&section=footer"/>
 </div>
 
-<div align="right">
-  
-### エライジャ
-
-</div>
 
 <div align="center">
   
