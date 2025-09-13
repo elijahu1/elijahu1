@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="https://assets.elijahu.me/elijahu-cover-photo.png" alt="Elijah's Cover" width="100%" style="max-width: 1000px; height: auto;" />
+    <img src="https://assets.elijahu.me/elijahu-cover-crop.png" alt="Elijah's Cover" width="100%" style="max-width: 1000px; height: auto;" />
 </div>
 
 ---
