@@ -37,11 +37,13 @@ I help startups and teams deploy faster, safer, and smarter through **IaC, CI/CD
 
 ---
 
-## 🧩 Featured Projects
 
-- 🚀 **[HiveTx Platform](https://github.com/)** — Student housing solution built with Flask, AWS ECS, and Terraform  
-- 🛡️ **[SecureOps Automation](https://github.com/)** — CI/CD pipeline enforcing compliance via GitHub Actions  
-- 🤖 **[AI Trading Bot](https://github.com/)** — Auto-trading system using Python, Pandas, and AWS Lambda  
+## 🧩 Featured Projects 
+
+- 🛠️ **[ebpf-container-security](https://github.com/elijahu1/ebpf-container-security)** — eBPF container escape detector prototype *(Kernel 6.8+)* — explores Linux kernel security and container isolation.  
+- 🚀 **[container-orch](https://github.com/elijahu1/container-orch)** — Dockerized Flask blog app deployed on AWS ECS with CI/CD automation using GitHub Actions and Terraform.  
+- ⚙️ **[dot](https://github.com/elijahu1/dot)** — My Arch Linux dotfiles for AwesomeWM, Neovim, Zsh, and Polybar — optimized for productivity and system performance.  
+
 
 ---
 
@@ -69,7 +71,7 @@ I help startups and teams deploy faster, safer, and smarter through **IaC, CI/CD
 ## 🌟 Fun Facts
 
 ```text
-🎯 2+ years in DevOps & Cloud Infrastructure
+🎯 5+ years in DevOps & Cloud Infrastructure
 🐧 RHEL Specialist & Linux Enthusiast
 ☁️ AWS Solutions Architect
 📺 Anime & Manhwa Aficionado
