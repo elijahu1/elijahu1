@@ -1,79 +1,33 @@
-# Hi there, I'm Elijah! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Elijah Udom (elijahu)
 
-<p align="center">
-  <img src="https://assets.elijahu.me/elijahu-cover-crop.png" alt="Elijah's Cover" width="100%" style="max-width:1000px; height:auto;"/>
-</p>
+**Infrastructure & Cloud Engineer** — Lagos, Nigeria
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Architect;AWS+Certified+Solutions+Architect;Automation+and+Security+Specialist" alt="Typing SVG" />
-</p>
+Building infrastructure at every layer. Kernel internals to AI inference. Platform engineering to security automation.
 
 ---
 
-## 🚀 About Me
+## What I Work On
 
-AWS Solutions Architect & DevOps Engineer passionate about **secure cloud automation** and **scalable infrastructure**.  
-I help startups and teams deploy faster, safer, and smarter through **IaC, CI/CD, and container orchestration**.
-
-💡 **Impact Highlights:**
-- Reduced deployment time by **75%** using GitHub Actions + Terraform  
-- Designed AWS infrastructure saving **$30K+ annually**  
-- Built monitoring that improved **threat detection by 80%**  
-
-🧠 **Currently Learning:** AWS Serverless • Linux Internals • AI/ML Integration  
-🎯 **Interests:** Cloud Architecture • DevOps • Anime • Manhwa  
+- **Infrastructure as Code** — Pulumi, Terraform, OpenTofu
+- **Cloud** — AWS (EC2, ECS, EKS, Lambda, SageMaker, IAM, VPC, S3, RDS)
+- **Containers & Orchestration** — Docker, Kubernetes, LXD
+- **Security** — eBPF, Cilium, Falco, Zero Trust, container security
+- **CI/CD** — GitHub Actions, GitOps, ArgoCD
+- **OS** — Arch Linux, RHEL, Ubuntu
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-<p align="center">
+**[Triforge](https://github.com/elijahu1/Triforge)** — Multi-tool IaC pipeline deploying AI translation inference on AWS SageMaker using Pulumi, Terraform, and OpenTofu. Zero console clicks.
+→ Live: [chat.elijahu.me](https://chat.elijahu.me) · Case study: [elijahu.me](https://elijahu.me/portfolio/projects/triforge)
 
-| Languages | Cloud | DevOps & IaC | OS |
-|:--:|:--:|:--:|:--:|
-| Python • Bash • Go | AWS • Azure • GCP | Docker • Kubernetes • Terraform • Ansible • Jenkins | Linux • RHEL • Windows |
+**[ebpf-container-security](https://github.com/elijahu1/ebpf-container-security)** — eBPF container escape detector prototype. Kernel 6.8+. Explores Linux kernel security and container isolation boundaries.
 
-</p>
-
----
-
-
-## 🧩 Featured Projects 
-
-- 🛠️ **[ebpf-container-security](https://github.com/elijahu1/ebpf-container-security)** — eBPF container escape detector prototype *(Kernel 6.8+)* — explores Linux kernel security and container isolation.  
-- 🚀 **[container-orch](https://github.com/elijahu1/container-orch)** — Dockerized Flask blog app deployed on AWS ECS with CI/CD automation using GitHub Actions and Terraform.  
-- ⚙️ **[dot](https://github.com/elijahu1/dot)** — My Arch Linux dotfiles for AwesomeWM, Neovim, Zsh, and Polybar — optimized for productivity and system performance.  
-
+**[dot](https://github.com/elijahu1/dot)** — Arch Linux dotfiles. AwesomeWM, Neovim, Zsh, Polybar, Alacritty. Optimized for infrastructure work.
 
 ---
 
-## 📊 GitHub Stats
+## Links
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elijahu1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&cache_seconds=7200"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahu1&layout=compact&langs_count=8&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&cache_seconds=7200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elijahu1&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&cache_seconds=7200" alt="Elijah's GitHub streak"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elijahu1&theme=onedark&row=1&column=6&margin-w=5" alt="Elijah's trophies"/>
-</p>
-
----
-
-## 🌟 Fun Facts
-
-```text
-🎯 5+ years in DevOps & Cloud Infrastructure
-🐧 RHEL Specialist & Linux Enthusiast
-☁️ AWS Solutions Architect
-📺 Anime & Manhwa Aficionado
-🚀 Always learning, always building
-
+[elijahu.me](https://elijahu.me) · [LinkedIn](https://linkedin.com/in/elijahu) · [Twitter/X](https://x.com/elijahu_) · [email](mailto:udomelijah@protonmail.com)
