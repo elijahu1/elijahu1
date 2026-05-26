@@ -28,6 +28,4 @@ Building infrastructure at every layer. Kernel internals to AI inference. Platfo
 
 ---
 
-## Links
 
-[elijahu.me](https://elijahu.me) · [LinkedIn](https://linkedin.com/in/elijahu) · [Twitter/X](https://x.com/elijahu_) · [email](mailto:udomelijah@protonmail.com)
