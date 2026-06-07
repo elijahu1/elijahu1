@@ -28,4 +28,11 @@ Building infrastructure at every layer. Kernel internals to AI inference. Platfo
 
 ---
 
+## Writing
+- **Zenn** — [zenn.dev/elijahu](https://zenn.dev/elijahu)
+- **Qiita** — [qiita.com/elijahu](https://qiita.com/elijahu)
+
+
+---
+
 
